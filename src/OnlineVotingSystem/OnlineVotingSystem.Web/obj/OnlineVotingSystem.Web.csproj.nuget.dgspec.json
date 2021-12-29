@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OnlineVotingSystem\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\OnlineVotingSystem.Web.csproj": {}
+    "D:\\Logic\\dotNet\\PetProject\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\OnlineVotingSystem.Web.csproj": {}
   },
   "projects": {
-    "E:\\OnlineVotingSystem\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\OnlineVotingSystem.Web.csproj": {
+    "D:\\Logic\\dotNet\\PetProject\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\OnlineVotingSystem.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OnlineVotingSystem\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\OnlineVotingSystem.Web.csproj",
+        "projectUniqueName": "D:\\Logic\\dotNet\\PetProject\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\OnlineVotingSystem.Web.csproj",
         "projectName": "OnlineVotingSystem.Web",
-        "projectPath": "E:\\OnlineVotingSystem\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\OnlineVotingSystem.Web.csproj",
-        "packagesPath": "C:\\Users\\mizan\\.nuget\\packages\\",
-        "outputPath": "E:\\OnlineVotingSystem\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\obj\\",
+        "projectPath": "D:\\Logic\\dotNet\\PetProject\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\OnlineVotingSystem.Web.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Logic\\dotNet\\PetProject\\OnlineVotingSystem\\src\\OnlineVotingSystem\\OnlineVotingSystem.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mizan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,6 +75,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

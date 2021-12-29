@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineVotingSystem.Web", "OnlineVotingSystem.Web\OnlineVotingSystem.Web.csproj", "{9313A2EA-F22E-4205-BD1A-FBBF9C4EC887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineVotingSystem.Web", "OnlineVotingSystem.Web\OnlineVotingSystem.Web.csproj", "{9313A2EA-F22E-4205-BD1A-FBBF9C4EC887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineVotingSystem.Mebership", "OnlineVotingSystem.Mebership\OnlineVotingSystem.Mebership.csproj", "{19CA7E53-F8D5-4366-8FD5-9E4CB7DC5466}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9313A2EA-F22E-4205-BD1A-FBBF9C4EC887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9313A2EA-F22E-4205-BD1A-FBBF9C4EC887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9313A2EA-F22E-4205-BD1A-FBBF9C4EC887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CA7E53-F8D5-4366-8FD5-9E4CB7DC5466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CA7E53-F8D5-4366-8FD5-9E4CB7DC5466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CA7E53-F8D5-4366-8FD5-9E4CB7DC5466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CA7E53-F8D5-4366-8FD5-9E4CB7DC5466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

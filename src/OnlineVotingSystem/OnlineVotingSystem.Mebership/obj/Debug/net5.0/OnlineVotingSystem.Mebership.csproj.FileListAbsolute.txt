@@ -1,0 +1,12 @@
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\bin\Debug\net5.0\OnlineVotingSystem.Mebership.deps.json
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\bin\Debug\net5.0\OnlineVotingSystem.Mebership.dll
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\bin\Debug\net5.0\ref\OnlineVotingSystem.Mebership.dll
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\bin\Debug\net5.0\OnlineVotingSystem.Mebership.pdb
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\obj\Debug\net5.0\OnlineVotingSystem.Mebership.csproj.AssemblyReference.cache
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\obj\Debug\net5.0\OnlineVotingSystem.Mebership.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\obj\Debug\net5.0\OnlineVotingSystem.Mebership.AssemblyInfoInputs.cache
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\obj\Debug\net5.0\OnlineVotingSystem.Mebership.AssemblyInfo.cs
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\obj\Debug\net5.0\OnlineVotingSystem.Mebership.csproj.CoreCompileInputs.cache
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\obj\Debug\net5.0\OnlineVotingSystem.Mebership.dll
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\obj\Debug\net5.0\ref\OnlineVotingSystem.Mebership.dll
+D:\Logic\dotNet\PetProject\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Mebership\obj\Debug\net5.0\OnlineVotingSystem.Mebership.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9313a2ea-f22e-4205-bd1a-fbbf9c4ec887": {
+      "ProjectGuid": "9313a2ea-f22e-4205-bd1a-fbbf9c4ec887",
+      "DisplayName": "OnlineVotingSystem.Web",
+      "ColorIndex": 0
+    },
+    "19ca7e53-f8d5-4366-8fd5-9e4cb7dc5466": {
+      "ProjectGuid": "19ca7e53-f8d5-4366-8fd5-9e4cb7dc5466",
+      "DisplayName": "OnlineVotingSystem.Mebership",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
