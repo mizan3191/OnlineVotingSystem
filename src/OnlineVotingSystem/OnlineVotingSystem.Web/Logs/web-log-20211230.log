@@ -1,0 +1,28 @@
+2021-12-30 00:45:22.000 +06:00 [INF] Application Starting up
+2021-12-30 00:45:31.695 +06:00 [FTL] Application start-up failed
+System.InvalidCastException: Unable to cast object of type 'Microsoft.Extensions.DependencyInjection.ServiceCollection' to type 'Autofac.ContainerBuilder'.
+   at Microsoft.Extensions.Hosting.Internal.ConfigureContainerAdapter`1.ConfigureContainer(HostBuilderContext hostContext, Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at OnlineVotingSystem.Web.Program.Main(String[] args) in E:\OnlineVotingSystem\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Web\Program.cs:line 32
+2021-12-30 00:54:00.087 +06:00 [INF] Application Starting up
+2021-12-30 00:54:01.079 +06:00 [FTL] Application start-up failed
+System.InvalidCastException: Unable to cast object of type 'Microsoft.Extensions.DependencyInjection.ServiceCollection' to type 'Autofac.ContainerBuilder'.
+   at Microsoft.Extensions.Hosting.Internal.ConfigureContainerAdapter`1.ConfigureContainer(HostBuilderContext hostContext, Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at OnlineVotingSystem.Web.Program.Main(String[] args) in E:\OnlineVotingSystem\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Web\Program.cs:line 32
+2021-12-30 00:55:37.553 +06:00 [INF] Application Starting up
+2021-12-30 00:55:38.832 +06:00 [FTL] Application start-up failed
+System.InvalidCastException: Unable to cast object of type 'Microsoft.Extensions.DependencyInjection.ServiceCollection' to type 'Autofac.ContainerBuilder'.
+   at Microsoft.Extensions.Hosting.Internal.ConfigureContainerAdapter`1.ConfigureContainer(HostBuilderContext hostContext, Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at OnlineVotingSystem.Web.Program.Main(String[] args) in E:\OnlineVotingSystem\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Web\Program.cs:line 32
+2021-12-30 01:02:24.614 +06:00 [INF] Application Starting up
+2021-12-30 01:02:25.816 +06:00 [FTL] Application start-up failed
+System.InvalidCastException: Unable to cast object of type 'Microsoft.Extensions.DependencyInjection.ServiceCollection' to type 'Autofac.ContainerBuilder'.
+   at Microsoft.Extensions.Hosting.Internal.ConfigureContainerAdapter`1.ConfigureContainer(HostBuilderContext hostContext, Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at OnlineVotingSystem.Web.Program.Main(String[] args) in E:\OnlineVotingSystem\OnlineVotingSystem\src\OnlineVotingSystem\OnlineVotingSystem.Web\Program.cs:line 32
